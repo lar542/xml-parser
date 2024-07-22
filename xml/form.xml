@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<formCollection>
+    <form id="form1" pname="폼1" use="Y" repCd="repCd1">
+        <paper id="dds1" genPrefix="gp1" formNo="fn1" docCode="dc1" docName="문서1" />
+        <paper id="dds2" genPrefix="gp2" formNo="fn2" docCode="dc2" docName="문서2" />
+        <paper id="dds3" genPrefix="gp3" formNo="fn3" docCode="dc3" docName="문서3" />
+    </form>
+    <form id="form2" pname="폼2" use="Y" repCd="repCd2">
+        <paper id="dds1" genPrefix="gp1" formNo="fn1" docCode="dc1" docName="문서1" />
+        <paper id="dds2" genPrefix="gp2" formNo="fn2" docCode="dc2" docName="문서2" />
+        <paper id="dds3" genPrefix="gp3" formNo="fn3" docCode="dc3" docName="문서3" />
+    </form>
+    <form id="form2" pname="폼3" use="Y" repCd="repCd2">
+        <paper id="dds1" genPrefix="gp1" formNo="fn1" docCode="dc1" docName="문서1" />
+        <paper id="dds2" genPrefix="gp2" formNo="fn2" docCode="dc2" docName="문서2" />
+        <paper id="dds3" genPrefix="gp3" formNo="fn3" docCode="dc3" docName="문서3" />
+    </form>
+</formCollection>
